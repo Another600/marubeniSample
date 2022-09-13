@@ -1,0 +1,26 @@
+{
+    "Anken" : {
+          "Id" : "",
+          "Name" : "案件情報_東京_1",
+          "Juyoka" : "001O000002HBUqD",
+          "Area" : "東京"
+    },
+    "Juyokyoten" : [
+        {
+          "Id" : "",
+          "Name" : "テスト拠点１",
+          "KeiyakushoKeiyakuDenryoku" : 4,
+          "KeiyakushoKyokyuDenatsu" : 10,
+          "Yubin" : "150-0013",
+          "Jusho" : "東京都渋谷区恵比寿"
+        },
+        {
+          "Id" : "",
+          "Name" : "テスト拠点２",
+          "KeiyakushoKeiyakuDenryoku" : 6,
+          "KeiyakushoKyokyuDenatsu" : 10,
+          "Yubin" : "150-0013",
+          "Jusho" : "東京都渋谷区恵比寿"
+        }
+    ]
+}
